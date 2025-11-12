@@ -20,7 +20,8 @@
   * Supplementary data for ... 3件
   * Supporting data for ... 2件
   * Supporting data for: ... 5件
-* 「has-references」で試すと「National Institute for Fusion Science (NIFS)」(5,000件中3,211件)「UC San Diego Library Digital Collections」(同1,016件)が多い
+* get_research_data_title3.ipynbで「has-references」を試すと「National Institute for Fusion Science (NIFS)」(5,000件中3,211件)「UC San Diego Library Digital Collections」(同1,016件)が多い
+  * 「National Institute for Fusion Science (NIFS)」と「UC San Diego Library Digital Collections」も除外してタイトルのリストをoutput2フォルダに保存
 
 Query Params: 
 * has-citations: Search the citationCount field for integer values greater than or equal to the inputted value.
