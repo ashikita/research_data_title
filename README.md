@@ -7,7 +7,7 @@
   * Data for ... 13件
   * Data for: ... 18件
   * Data from ... 6件
-  * Data from: ... 390件
+  * Data from: ... 390件 → ほぼDryadのデータ
   * Data of ... 2件
   * Data on ... 6件
   * Data: ... 4件
