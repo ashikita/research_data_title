@@ -1,6 +1,7 @@
 # 研究データのタイトル傾向調査
 
-* DataCite DOIで根拠データのタイトルリストを取得したい、根拠データをどう識別するか、has-citationsとhas-referencesのどちらかを使う?  
+* DataCite DOIで根拠データのタイトルリストを取得したい、根拠データをどう識別するか、has-citationsとhas-referencesのどちらかを使う?
+  * 実際にタイトルを取得してメタデータを比較すれば違いが分かる?
 * データの偏りがある、「HEPData」のデータが8割近く占める、「Cambridge Crystallographic Data Centre」も多い、これらを除外する
 * get_research_data_title2.ipynbでhas-citations=1、 「HEPData」「Cambridge Crystallographic Data Centre」除外、2020-2024年のデータを取得してoutputフォルダに保存
   * 合計5,410件のデータ、タイトルでソート
