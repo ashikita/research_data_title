@@ -4,9 +4,9 @@
 **プロジェクト名**： 研究データタイトルリスト
 **版（Version）**： v[0.1]（初版）  
 **改訂日**： [YYYY-MM-DD]  
-**改訂責任者**： 芦北 卓也
+**改訂責任者**： 芦北 卓也  
 **連絡先**： [メール]  
-**DMP DOI/URL**： https://github.com/ashikita/research_data_title
+**DMP DOI/URL**： https://github.com/ashikita/research_data_title  
 **ライフサイクル方針**： 本DMPは研究期間中に随時更新する「生きた文書」。主要マイルストーン（データ更新／論文投稿／受領通知／公開時）で改訂。
 
 ---
